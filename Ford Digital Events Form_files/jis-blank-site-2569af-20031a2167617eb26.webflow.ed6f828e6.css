@@ -92,7 +92,7 @@
 }
 
 .body {
-  background-color: #000;
+  background-color: #031837;
 }
 
 @media screen and (max-width: 479px) {
@@ -100,14 +100,14 @@
     background-color: #000;
   }
   .body {
-    background-color: #000;
+    background-color: #031837;
   }
   .container {
     position: static;
     top: 0vh;
     margin: auto;
     padding-bottom: 88px;
-    border: 28px solid #000;
+    border: 28px solid #031837;
     border-radius: 0px;
     background-color: #fff;
   }
